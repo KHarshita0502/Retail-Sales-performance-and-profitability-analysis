@@ -60,5 +60,3 @@ Sample Superstore Dataset
 - Customer analysis
 - Regional analysis
 - Product performance analysis
-
-📷 Dashboard Preview
