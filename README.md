@@ -1,9 +1,9 @@
 📊 Retail Sales Performance & Profitability Analysis Dashboard
 
-📌 Project Overview
+📌 Project Overview :
 This project is an interactive Power BI dashboard developed to analyze retail sales performance and profitability. It transforms raw retail sales data into meaningful business insights using KPIs, charts, and interactive slicers to support data-driven decision-making.
 
-❗ Problem Statement
+❗ Problem Statement :
 Retail businesses generate large volumes of sales data, making it difficult to manually identify sales trends, profitable regions, top-performing products, and valuable customers. This dashboard provides a centralized view of key business metrics to simplify analysis and improve decision-making.
 
 🎯 Objectives
